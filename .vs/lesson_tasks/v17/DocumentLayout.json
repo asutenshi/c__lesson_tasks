@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tenshi\\source\\repos\\lesson_tasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0F0654-C947-4526-9887-1075D5CAACD9}|lesson_tasks.vcxproj|C:\\Users\\tenshi\\source\\repos\\lesson_tasks\\lesson_tasks.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF0F0654-C947-4526-9887-1075D5CAACD9}|lesson_tasks.vcxproj|solutionrelative:lesson_tasks.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lesson_tasks.cpp",
+              "DocumentMoniker": "C:\\Users\\tenshi\\source\\repos\\lesson_tasks\\lesson_tasks.cpp",
+              "RelativeDocumentMoniker": "lesson_tasks.cpp",
+              "ToolTip": "C:\\Users\\tenshi\\source\\repos\\lesson_tasks\\lesson_tasks.cpp",
+              "RelativeToolTip": "lesson_tasks.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-27T02:36:41.845Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
