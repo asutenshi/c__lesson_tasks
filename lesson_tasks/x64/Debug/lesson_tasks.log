@@ -1,7 +1,8 @@
 ﻿  lesson_tasks.cpp
-C:\Users\tenshi\source\repos\lesson_tasks\lesson_tasks.cpp(10,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
-C:\Users\tenshi\source\repos\lesson_tasks\lesson_tasks.cpp(22,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\tenshi\source\repos\lesson_tasks\lesson_tasks.cpp(36,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\tenshi\source\repos\lesson_tasks\lesson_tasks.cpp(35,11): warning C4101: 'p': unreferenced local variable
-C:\Users\tenshi\source\repos\lesson_tasks\lesson_tasks.cpp(36,1): error C4700: uninitialized local variable 's' used
-C:\Users\tenshi\source\repos\lesson_tasks\lesson_tasks.cpp(36,1): error C4700: uninitialized local variable 'k' used
+C:\Users\tenshi\Documents\code\c++\c_lessons_tasks\c-_lesson_tasks\lesson_tasks.cpp(14,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\tenshi\Documents\code\c++\c_lessons_tasks\c-_lesson_tasks\lesson_tasks.cpp(26,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tenshi\Documents\code\c++\c_lessons_tasks\c-_lesson_tasks\lesson_tasks.cpp(40,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tenshi\Documents\code\c++\c_lessons_tasks\c-_lesson_tasks\lesson_tasks.cpp(41,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\tenshi\Documents\code\c++\c_lessons_tasks\c-_lesson_tasks\lesson_tasks.cpp(52,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tenshi\Documents\code\c++\c_lessons_tasks\c-_lesson_tasks\lesson_tasks.cpp(84,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  lesson_tasks.vcxproj -> C:\Users\tenshi\Documents\code\c++\c_lessons_tasks\c-_lesson_tasks\x64\Debug\lesson_tasks.exe
