@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tenshi\\Documents\\code\\c\u002B\u002B\\c_lessons_tasks\\c-_lesson_tasks\\",
+  "WorkspaceRootPath": "C:\\Users\\tenshi\\source\\repos\\lesson_tasks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF0F0654-C947-4526-9887-1075D5CAACD9}|lesson_tasks.vcxproj|C:\\Users\\tenshi\\Documents\\code\\c\u002B\u002B\\c_lessons_tasks\\c-_lesson_tasks\\lesson_tasks.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{FF0F0654-C947-4526-9887-1075D5CAACD9}|lesson_tasks.vcxproj|C:\\Users\\tenshi\\source\\repos\\lesson_tasks\\lesson_tasks.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FF0F0654-C947-4526-9887-1075D5CAACD9}|lesson_tasks.vcxproj|solutionrelative:lesson_tasks.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,21 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "lesson_tasks.cpp",
-              "DocumentMoniker": "C:\\Users\\tenshi\\Documents\\code\\c\u002B\u002B\\c_lessons_tasks\\c-_lesson_tasks\\lesson_tasks.cpp",
+              "DocumentMoniker": "C:\\Users\\tenshi\\source\\repos\\lesson_tasks\\lesson_tasks.cpp",
               "RelativeDocumentMoniker": "lesson_tasks.cpp",
-              "ToolTip": "C:\\Users\\tenshi\\Documents\\code\\c\u002B\u002B\\c_lessons_tasks\\c-_lesson_tasks\\lesson_tasks.cpp",
-              "RelativeToolTip": "lesson_tasks.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\tenshi\\source\\repos\\lesson_tasks\\lesson_tasks.cpp*",
+              "RelativeToolTip": "lesson_tasks.cpp*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-27T02:36:41.845Z",
               "EditorCaption": ""

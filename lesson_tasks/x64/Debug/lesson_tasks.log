@@ -1,8 +1,11 @@
 ﻿  lesson_tasks.cpp
-C:\Users\tenshi\Documents\code\c++\c_lessons_tasks\c-_lesson_tasks\lesson_tasks.cpp(14,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
-C:\Users\tenshi\Documents\code\c++\c_lessons_tasks\c-_lesson_tasks\lesson_tasks.cpp(26,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\tenshi\Documents\code\c++\c_lessons_tasks\c-_lesson_tasks\lesson_tasks.cpp(40,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\tenshi\Documents\code\c++\c_lessons_tasks\c-_lesson_tasks\lesson_tasks.cpp(41,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\tenshi\Documents\code\c++\c_lessons_tasks\c-_lesson_tasks\lesson_tasks.cpp(52,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\tenshi\Documents\code\c++\c_lessons_tasks\c-_lesson_tasks\lesson_tasks.cpp(84,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  lesson_tasks.vcxproj -> C:\Users\tenshi\Documents\code\c++\c_lessons_tasks\c-_lesson_tasks\x64\Debug\lesson_tasks.exe
+C:\Users\tenshi\source\repos\lesson_tasks\lesson_tasks.cpp(15,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\tenshi\source\repos\lesson_tasks\lesson_tasks.cpp(29,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tenshi\source\repos\lesson_tasks\lesson_tasks.cpp(30,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tenshi\source\repos\lesson_tasks\lesson_tasks.cpp(40,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tenshi\source\repos\lesson_tasks\lesson_tasks.cpp(41,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\tenshi\source\repos\lesson_tasks\lesson_tasks.cpp(42,48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\tenshi\source\repos\lesson_tasks\lesson_tasks.cpp(43,50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\tenshi\source\repos\lesson_tasks\lesson_tasks.cpp(53,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tenshi\source\repos\lesson_tasks\lesson_tasks.cpp(89,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  lesson_tasks.vcxproj -> C:\Users\tenshi\source\repos\lesson_tasks\x64\Debug\lesson_tasks.exe
